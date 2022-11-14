@@ -1,5 +1,5 @@
 # Z-Tech
-Sayang Eliyana (as Scrum Master)
-Chang Ming Xuan (as Product Owner)
-Muhammad Aiman (as Developer)
-Lee Jia Yee (as Developer)
+Sayang Eliyana (as Scrum Master) <br>
+Chang Ming Xuan (as Product Owner) <br>
+Muhammad Aiman (as Developer) <br>
+Lee Jia Yee (as Developer) <br>
